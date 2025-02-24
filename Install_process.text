@@ -1,0 +1,16 @@
+# Needed libraries
+
+    pip install opencv-python
+    pip install mediapipe
+    pip install numpy
+
+#Cmd Run the path of the file located
+
+    cd path/projrct folder
+
+#Run the programe 
+
+    python pushup_detection.py
+
+
+
